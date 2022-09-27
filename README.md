@@ -5,9 +5,11 @@ Shell:Interface that allows users to communicate with kernel
 CLI:Command Line Interface
 - Relatively fast
 - Keyboard
+- 
 GUI:Graphical User Interface
 - Relatively slow, but easy
 - Mouse mostly, Some Keyboard
+()
 ---
 ### Some Kind of Shell Command
 pwd:show the current path in a hierarchical directory
